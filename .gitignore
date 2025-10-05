@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configuration files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
